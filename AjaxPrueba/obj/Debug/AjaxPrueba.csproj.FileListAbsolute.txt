@@ -1,0 +1,152 @@
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\AjaxPrueba.dll.config
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\AjaxPrueba.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\AjaxPrueba.pdb
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\csc.exe
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\csc.exe.config
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\csc.rsp
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\csi.exe
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\csi.exe.config
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\csi.rsp
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.AppContext.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Collections.Immutable.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Console.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Globalization.Calendars.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.IO.Compression.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.IO.FileSystem.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Net.Http.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Net.Sockets.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Reflection.Metadata.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.ValueTuple.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Xml.XPath.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\vbc.exe
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\vbc.exe.config
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\vbc.rsp
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\VBCSCompiler.exe
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\roslyn\VBCSCompiler.exe.config
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\Antlr3.Runtime.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\AspNet.ScriptManager.bootstrap.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\AspNet.ScriptManager.jQuery.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\Microsoft.Web.Infrastructure.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\Newtonsoft.Json.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\System.Web.Optimization.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\WebGrease.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\System.Web.Optimization.xml
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\Newtonsoft.Json.xml
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\Antlr3.Runtime.pdb
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\es\System.Web.Optimization.resources.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\obj\Debug\AjaxPrueba.csproj.AssemblyReference.cache
+D:\ProyectosVisualStudio\repos\AjaxPrueba\obj\Debug\AjaxPrueba.csproj.CoreCompileInputs.cache
+D:\ProyectosVisualStudio\repos\AjaxPrueba\obj\Debug\AjaxPrueba.csproj.CopyComplete
+D:\ProyectosVisualStudio\repos\AjaxPrueba\obj\Debug\AjaxPrueba.dll
+D:\ProyectosVisualStudio\repos\AjaxPrueba\obj\Debug\AjaxPrueba.pdb
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\AjaxPrueba.dll.config
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\AjaxPrueba.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\AjaxPrueba.pdb
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\csc.exe
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\csc.exe.config
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\csc.rsp
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\csi.exe
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\csi.exe.config
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\csi.rsp
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.AppContext.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Collections.Immutable.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Console.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Globalization.Calendars.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.IO.Compression.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.IO.FileSystem.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Net.Http.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Net.Sockets.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.ValueTuple.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Xml.XPath.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\vbc.exe
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\vbc.exe.config
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\vbc.rsp
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\VBCSCompiler.exe
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\roslyn\VBCSCompiler.exe.config
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\Antlr3.Runtime.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\AspNet.ScriptManager.jQuery.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\Microsoft.Web.Infrastructure.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\Newtonsoft.Json.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\System.Web.Optimization.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\WebGrease.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\System.Web.Optimization.xml
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\Newtonsoft.Json.xml
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\Antlr3.Runtime.pdb
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\es\System.Web.Optimization.resources.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\obj\Debug\AjaxPrueba.csproj.AssemblyReference.cache
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\obj\Debug\AjaxPrueba.csproj.CoreCompileInputs.cache
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\obj\Debug\AjaxPrueba.csproj.CopyComplete
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\obj\Debug\AjaxPrueba.dll
+D:\Repositorios DDA\DDA-Practica-12\AjaxPrueba\obj\Debug\AjaxPrueba.pdb
